@@ -10,6 +10,7 @@ Below you will find the essential tools we'll be using throughout the course. Pl
 ## ☁️ Quick Start Environment (No Installation Needed!)
 
 If you want to start coding **instantly** without downloading any software, you can use the live Python coding environment. This is perfect for quick testing, prototyping, and trying things out on any computer!
+We will take advantage of this environment but kindly go on to install the software below on your computer.
 
 * **Launch a Live Workspace:** [StudyHubExperts UnderTheCode Playground](https://studyhubexperts.com/underthecode/space/new)
 * *Note: Currently does not work on **Mobile Devices** .*
